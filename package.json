@@ -1,6 +1,6 @@
 {
   "name": "@rs-r2d2/log4ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A powerful, flexible logging library for TypeScript inspired by Apache Log4j, featuring colored output and emojis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
