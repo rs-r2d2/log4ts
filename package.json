@@ -1,6 +1,6 @@
 {
   "name": "@rs-r2d2/log4ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A powerful, flexible logging library for TypeScript inspired by Apache Log4j, featuring colored output and emojis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rs-r2d2/ts-logging.git"
+    "url": "git+https://github.com/rs-r2d2/log4ts"
   },
   "keywords": [
     "typescript",
@@ -35,9 +35,9 @@
   "author": "rs-r2d2",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rs-r2d2/ts-logging/issues"
+    "url": "https://github.com/rs-r2d2/log4tsissues"
   },
-  "homepage": "https://github.com/rs-r2d2/ts-logging#readme",
+  "homepage": "https://github.com/rs-r2d2/log4ts#readme",
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "@types/node": "^18.0.0",
